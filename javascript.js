@@ -53,12 +53,12 @@ var quotes = [
 ]
 
 function getQuote() {
-	var num = Math.floor(Math.random() * (quotes.length)),
-	document.getElementById('quote').innerHTML = quotes[num],
+	var num = Math.floor(Math.random() * (quotes.length));
+	document.getElementById('quote').innerHTML = quotes[num];
 }
 
-window.onload = getQuote,
+window.onload = getQuote;
 
 function tweet() {
-	window.open('https://twitter.com/intent/tweet?hashtags=freecodecamp&text='+document.getElementById('quote').innerHTML),
+	window.open('https://twitter.com/intent/tweet?hashtags=freecodecamp&text='+document.getElementById('quote').innerHTML);
 }
