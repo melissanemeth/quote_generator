@@ -1,0 +1,37 @@
+html { 
+  background: url(images/bookshelf.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#quote {
+	margin-bottom: 20px;
+	font-family: 'Merriweather', serif;
+	font-weight: 600;
+	font-size: 105%;
+}
+
+.content {
+	background-color: rgba(255, 255, 255, 0.5);
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.button {
+	border-radius: 5px;
+	margin-bottom: 5px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 105%;
+	background-color: #dddcd2;
+	width: 10em;
+	height: 3em;
+}
+
+h1 {
+	font-family: 'Italianno', cursive;
+	font-size: 300%;
+}
