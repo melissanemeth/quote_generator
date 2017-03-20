@@ -49,7 +49,9 @@ var quotes = [
 	'Nobody realizes that some people expend tremendous energy merely to be normal. - Albert Camus',
 	'Education is the most powerful weapon which you can use to change the world. - Nelson Mandela',
 	'I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow, but through it all I still know quite certainly that just to be alive is a grand thing. - Agatha Christie',
-	'None of us really changes over time. We only become more fully what we are. - Anne Rice'
+	'None of us really changes over time. We only become more fully what we are. - Anne Rice',
+	'What and how much had I lost by trying to do only what was expected of me instead of what I myself had wished to do? - Ralph Ellison',
+	'Money can\'t buy happiness, but it can make you awfully comfortable while you\'re being miserable. - Clare Booth Luce'
 ]
 
 function getQuote() {
