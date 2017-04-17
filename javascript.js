@@ -37,7 +37,6 @@ var quotes = [
 	'It is the mark of an educated mind to be able to entertain a thought without accepting it. - Aristotle',
 	'Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth. - Fyodor Dostoyevsky',
 	'One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn\'t exist... Without imperfection, neither you nor I would exist. - Stephen Hawking',
-	'Look at the sky: that is for you. Look at each person\'s face as you pass them on the street: those faces are for you. And the street itself, and the ground under the street, and the ball of fire underneath the ground: all these things are for you. - Miranda July',
 	'People aren\'t either wicked or noble. They\'re like chef\'s salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict. - Lemony Snicket',
 	'The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff. - Carl Sagan',
 	'You cannot protect yourself from sadness without protecting yourself from happiness. - Jonathan Safran Foer',
@@ -51,7 +50,15 @@ var quotes = [
 	'I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow, but through it all I still know quite certainly that just to be alive is a grand thing. - Agatha Christie',
 	'None of us really changes over time. We only become more fully what we are. - Anne Rice',
 	'What and how much had I lost by trying to do only what was expected of me instead of what I myself had wished to do? - Ralph Ellison',
-	'Money can\'t buy happiness, but it can make you awfully comfortable while you\'re being miserable. - Clare Booth Luce'
+	'Money can\'t buy happiness, but it can make you awfully comfortable while you\'re being miserable. - Clare Booth Luce',
+	'I know of a cure for everything: salt water... in one way or the other. Sweat, or tears, or the salt sea. - Karen Blixen',
+	'It was not the feeling of completeness I so needed, but the feeling of not being empty. - Jonathan Safran Foer',
+	'The best portion of a good man\'s life&#58 his little, nameless unremembered acts of kindness and love. - William Wordsworth',
+	'Dawn is the time when nothing breathes, the hour of silence. Everything is transfixed, only the light moves. - Leonora Carrington',
+	'There is a sacredness in tears....They are the messengers of overwhelming grief, of deep contrition and of unspeakable love. - Washington Irving',
+	'Remain true to yourself, child. If you know your own heart, you will always have one friend who does not lie. - Marion Zimmer Bradley',
+	'No thief, however skillful, can rob one of knowledge, and that is why knowledge is the best and safest treasure to acquire. - L. Frank Baum',
+	'Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky. - Rabindranath Tagore'
 ]
 
 function getQuote() {
